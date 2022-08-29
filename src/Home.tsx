@@ -489,6 +489,8 @@ const Home = (props: HomeProps) => {
   return (
     <Container style={{ marginTop: 100 }}>
       <Container maxWidth="xs" style={{ position: "relative" }}>
+        <h1 style={{color:"white"}}>Unidelicorn Artworks</h1>
+        <img src="https://somespace.fra1.digitaloceanspaces.com/IMG_20220827_032906.jpg" alt="proj" style={{width:"100%"}}/>
         <Paper
           style={{
             padding: 24,
